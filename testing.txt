@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 20B9-17A6
+
+ Directory of C:\Pavn Gupta\Automation Testing\git project
+
+04/23/2019  08:28 PM    <DIR>          .
+04/23/2019  08:28 PM    <DIR>          ..
+04/23/2019  08:28 PM                 0 testing.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  133,587,914,752 bytes free
